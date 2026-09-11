@@ -1,0 +1,619 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Saint Mary's University//Academic Calendar of Events 2026-2027//
+ EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Undergraduate Academic Calendar of Events, Fall 2026 - Summer
+  2027. Source: https://smu-ca-public.courseleaf.com/undergraduate/calendar
+ -events/
+X-WR-CALNAME:SMU Academic Calendar of Events 2026-2027
+BEGIN:VEVENT
+SUMMARY:Labour Day - Administrative Offices closed
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+DTSTAMP:20260911T135614Z
+UID:20260907-labour-day-administrative-offices-closed@academic-calendar.sm
+ u.ca
+DESCRIPTION:Source: https://smu-ca-public.courseleaf.com/undergraduate/cal
+ endar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Academic year begins
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+DTSTAMP:20260911T135614Z
+UID:20260908-academic-year-begins@academic-calendar.smu.ca
+DESCRIPTION:Source: https://smu-ca-public.courseleaf.com/undergraduate/cal
+ endar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fall Term classes begin
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+DTSTAMP:20260911T135614Z
+UID:20260909-fall-term-classes-begin@academic-calendar.smu.ca
+DESCRIPTION:Source: https://smu-ca-public.courseleaf.com/undergraduate/cal
+ endar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to add/drop Fall Term courses
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+DTSTAMP:20260911T135614Z
+UID:20260918-last-day-to-add-drop-fall-term-courses@academic-calendar.smu.
+ ca
+DESCRIPTION:Last day for adding or dropping courses in the Fall Term (Sept
+ ember - December).\n\nSource: https://smu-ca-public.courseleaf.com/undergr
+ aduate/calendar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fall Term tuition final payment deadline
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+DTSTAMP:20260911T135614Z
+UID:20260918-fall-term-tuition-final-payment-deadline@academic-calendar.sm
+ u.ca
+DESCRIPTION:Last day for final payment of Fall Term tuition fees.\n\nSourc
+ e: https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:National Day for Truth and Reconciliation - No classes
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+DTSTAMP:20260911T135614Z
+UID:20260930-national-day-for-truth-and-reconciliatio@academic-calendar.sm
+ u.ca
+DESCRIPTION:Administrative Offices closed. No classes.\n\nSource: https://
+ smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thanksgiving Day - No classes
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+DTSTAMP:20260911T135614Z
+UID:20261012-thanksgiving-day-no-classes@academic-calendar.smu.ca
+DESCRIPTION:Administrative Offices closed. No classes.\n\nSource: https://
+ smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fall Break - No classes
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20260911T135614Z
+UID:20261109-fall-break-no-classes@academic-calendar.smu.ca
+DESCRIPTION:Source: https://smu-ca-public.courseleaf.com/undergraduate/cal
+ endar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Remembrance Day - Administrative Offices closed
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+DTSTAMP:20260911T135614Z
+UID:20261111-remembrance-day-administrative-offices-c@academic-calendar.sm
+ u.ca
+DESCRIPTION:Source: https://smu-ca-public.courseleaf.com/undergraduate/cal
+ endar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fall Convocation
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261114
+DTSTAMP:20260911T135614Z
+UID:20261112-fall-convocation@academic-calendar.smu.ca
+DESCRIPTION:Source: https://smu-ca-public.courseleaf.com/undergraduate/cal
+ endar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline to apply for Winter 2027 graduation
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+DTSTAMP:20260911T135614Z
+UID:20261130-deadline-to-apply-for-winter-2027-gradua@academic-calendar.sm
+ u.ca
+DESCRIPTION:Deadline for filing applications for Winter 2027 Graduation.\n
+ \nSource: https://smu-ca-public.courseleaf.com/undergraduate/calendar-even
+ ts/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of regularly scheduled Fall Term classes
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+DTSTAMP:20260911T135614Z
+UID:20261209-last-day-of-regularly-scheduled-fall-ter@academic-calendar.sm
+ u.ca
+DESCRIPTION:Source: https://smu-ca-public.courseleaf.com/undergraduate/cal
+ endar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monday make-up classes (in lieu of Thanksgiving)
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+DTSTAMP:20260911T135614Z
+UID:20261210-monday-make-up-classes-in-lieu-of-thanks@academic-calendar.sm
+ u.ca
+DESCRIPTION:Source: https://smu-ca-public.courseleaf.com/undergraduate/cal
+ endar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to withdraw without academic penalty (Fall-only courses)
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+DTSTAMP:20260911T135614Z
+UID:20261210-last-day-to-withdraw-without-academic-pe@academic-calendar.sm
+ u.ca
+DESCRIPTION:Last day for withdrawing\, without academic penalty\, from 3 o
+ r 6 credit hour courses taught only in the fall term (Academic Regulation 
+ 13).\n\nSource: https://smu-ca-public.courseleaf.com/undergraduate/calenda
+ r-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Study day - No classes/No exams
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+DTSTAMP:20260911T135614Z
+UID:20261211-study-day-no-classes-no-exams@academic-calendar.smu.ca
+DESCRIPTION:Source: https://smu-ca-public.courseleaf.com/undergraduate/cal
+ endar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fall final / mid-year examinations begin
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+DTSTAMP:20260911T135614Z
+UID:20261212-fall-final-mid-year-examinations-begin@academic-calendar.smu.
+ ca
+DESCRIPTION:Start of formal final examinations in 3 credit hour courses an
+ d formal mid-year examinations in 6 credit hour courses.\n\nSource: https:
+ //smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:End of final exams - Fall Term ends
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+DTSTAMP:20260911T135614Z
+UID:20261221-end-of-final-exams-fall-term-ends@academic-calendar.smu.ca
+DESCRIPTION:End of final exams and end of the fall term. Subject to change
+  should it not be possible to schedule all formal examinations in the desi
+ gnated timeframe.\n\nSource: https://smu-ca-public.courseleaf.com/undergra
+ duate/calendar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day Administrative Offices open before holiday break
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+DTSTAMP:20260911T135614Z
+UID:20261222-last-day-administrative-offices-open-bef@academic-calendar.sm
+ u.ca
+DESCRIPTION:Source: https://smu-ca-public.courseleaf.com/undergraduate/cal
+ endar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Administrative Offices reopen - Academic year resumes
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+DTSTAMP:20260911T135614Z
+UID:20270104-administrative-offices-reopen-academic-y@academic-calendar.sm
+ u.ca
+DESCRIPTION:Source: https://smu-ca-public.courseleaf.com/undergraduate/cal
+ endar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter Term classes begin/resume
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+DTSTAMP:20260911T135614Z
+UID:20270106-winter-term-classes-begin-resume@academic-calendar.smu.ca
+DESCRIPTION:Source: https://smu-ca-public.courseleaf.com/undergraduate/cal
+ endar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to add/drop Winter Term courses
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+DTSTAMP:20260911T135614Z
+UID:20270115-last-day-to-add-drop-winter-term-courses@academic-calendar.sm
+ u.ca
+DESCRIPTION:Last day for adding or dropping courses in the Winter Term (Ja
+ nuary - April).\n\nSource: https://smu-ca-public.courseleaf.com/undergradu
+ ate/calendar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter Term tuition final payment deadline
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+DTSTAMP:20260911T135614Z
+UID:20270115-winter-term-tuition-final-payment-deadli@academic-calendar.sm
+ u.ca
+DESCRIPTION:Last day for final payment of Winter Term tuition fees.\n\nSou
+ rce: https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter Break - No classes
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270222
+DTSTAMP:20260911T135614Z
+UID:20270215-winter-break-no-classes@academic-calendar.smu.ca
+DESCRIPTION:Source: https://smu-ca-public.courseleaf.com/undergraduate/cal
+ endar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heritage Day - No classes
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+DTSTAMP:20260911T135614Z
+UID:20270215-heritage-day-no-classes@academic-calendar.smu.ca
+DESCRIPTION:Administrative Offices closed. No classes.\n\nSource: https://
+ smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline to apply for Spring 2027 graduation
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+DTSTAMP:20260911T135614Z
+UID:20270315-deadline-to-apply-for-spring-2027-gradua@academic-calendar.sm
+ u.ca
+DESCRIPTION:Deadline for filing applications for Spring 2027 Graduation.\n
+ \nSource: https://smu-ca-public.courseleaf.com/undergraduate/calendar-even
+ ts/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Good Friday - No classes
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+DTSTAMP:20260911T135614Z
+UID:20270326-good-friday-no-classes@academic-calendar.smu.ca
+DESCRIPTION:Administrative Offices closed. No classes.\n\nSource: https://
+ smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Easter Monday - No classes
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+DTSTAMP:20260911T135614Z
+UID:20270329-easter-monday-no-classes@academic-calendar.smu.ca
+DESCRIPTION:Administrative Offices closed. No classes.\n\nSource: https://
+ smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of Winter Term classes
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+DTSTAMP:20260911T135614Z
+UID:20270407-last-day-of-winter-term-classes@academic-calendar.smu.ca
+DESCRIPTION:Source: https://smu-ca-public.courseleaf.com/undergraduate/cal
+ endar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to withdraw without academic penalty (Winter / full-year 
+ courses)
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+DTSTAMP:20260911T135614Z
+UID:20270407-last-day-to-withdraw-without-academic-pe@academic-calendar.sm
+ u.ca
+DESCRIPTION:Last day for withdrawing\, without academic penalty\, from 6 c
+ redit hour courses taught September to April\, and from 3 or 6 credit hour
+  courses taught only in the Winter term (Academic Regulation 13).\n\nSourc
+ e: https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Study days - No classes/No exams
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270410
+DTSTAMP:20260911T135614Z
+UID:20270408-study-days-no-classes-no-exams@academic-calendar.smu.ca
+DESCRIPTION:Source: https://smu-ca-public.courseleaf.com/undergraduate/cal
+ endar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter final examinations begin
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+DTSTAMP:20260911T135614Z
+UID:20270410-winter-final-examinations-begin@academic-calendar.smu.ca
+DESCRIPTION:Source: https://smu-ca-public.courseleaf.com/undergraduate/cal
+ endar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:End of final exams - Winter Term ends
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+DTSTAMP:20260911T135614Z
+UID:20270421-end-of-final-exams-winter-term-ends@academic-calendar.smu.ca
+DESCRIPTION:End of formal final examinations and end of the Winter Term. S
+ ubject to change should it not be possible to schedule all formal examinat
+ ions in the designated timeframe.\n\nSource: https://smu-ca-public.coursel
+ eaf.com/undergraduate/calendar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring Term classes begin
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+DTSTAMP:20260911T135614Z
+UID:20270503-spring-term-classes-begin@academic-calendar.smu.ca
+DESCRIPTION:Spring Term begins for graduate and undergraduate courses.\n\n
+ Source: https://smu-ca-public.courseleaf.com/undergraduate/calendar-events
+ /
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to add/drop Spring Term courses
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+DTSTAMP:20260911T135614Z
+UID:20270506-last-day-to-add-drop-spring-term-courses@academic-calendar.sm
+ u.ca
+DESCRIPTION:Source: https://smu-ca-public.courseleaf.com/undergraduate/cal
+ endar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring Term tuition final payment deadline
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+DTSTAMP:20260911T135614Z
+UID:20270506-spring-term-tuition-final-payment-deadli@academic-calendar.sm
+ u.ca
+DESCRIPTION:Last day for final payment of Spring Term tuition fees.\n\nSou
+ rce: https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Victoria Day - No classes
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270525
+DTSTAMP:20260911T135614Z
+UID:20270524-victoria-day-no-classes@academic-calendar.smu.ca
+DESCRIPTION:Administrative Offices closed. No classes.\n\nSource: https://
+ smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter/Spring Convocation Week
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270529
+DTSTAMP:20260911T135614Z
+UID:20270525-winter-spring-convocation-week@academic-calendar.smu.ca
+DESCRIPTION:Source: https://smu-ca-public.courseleaf.com/undergraduate/cal
+ endar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of Undergraduate Spring Term classes
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+DTSTAMP:20260911T135614Z
+UID:20270614-last-day-of-undergraduate-spring-term-cl@academic-calendar.sm
+ u.ca
+DESCRIPTION:Source: https://smu-ca-public.courseleaf.com/undergraduate/cal
+ endar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to withdraw without academic penalty (Spring Term)
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+DTSTAMP:20260911T135614Z
+UID:20270614-last-day-to-withdraw-without-academic-pe@academic-calendar.sm
+ u.ca
+DESCRIPTION:Last day for withdrawing\, without academic penalty\, from Spr
+ ing Term (Academic Regulation 13).\n\nSource: https://smu-ca-public.course
+ leaf.com/undergraduate/calendar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Study days - No classes
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270617
+DTSTAMP:20260911T135614Z
+UID:20270615-study-days-no-classes@academic-calendar.smu.ca
+DESCRIPTION:Source: https://smu-ca-public.courseleaf.com/undergraduate/cal
+ endar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring final examination period - Spring Term ends
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270622
+DTSTAMP:20260911T135614Z
+UID:20270617-spring-final-examination-period-spring-t@academic-calendar.sm
+ u.ca
+DESCRIPTION:Source: https://smu-ca-public.courseleaf.com/undergraduate/cal
+ endar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canada Day - Administrative Offices closed
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+DTSTAMP:20260911T135614Z
+UID:20270701-canada-day-administrative-offices-closed@academic-calendar.sm
+ u.ca
+DESCRIPTION:Source: https://smu-ca-public.courseleaf.com/undergraduate/cal
+ endar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Summer Term (Undergraduate) classes begin
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270706
+DTSTAMP:20260911T135614Z
+UID:20270705-summer-term-undergraduate-classes-begin@academic-calendar.smu
+ .ca
+DESCRIPTION:Source: https://smu-ca-public.courseleaf.com/undergraduate/cal
+ endar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to add/drop Summer Term courses
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+DTSTAMP:20260911T135614Z
+UID:20270708-last-day-to-add-drop-summer-term-courses@academic-calendar.sm
+ u.ca
+DESCRIPTION:Source: https://smu-ca-public.courseleaf.com/undergraduate/cal
+ endar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Summer Term tuition final payment deadline
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+DTSTAMP:20260911T135614Z
+UID:20270708-summer-term-tuition-final-payment-deadli@academic-calendar.sm
+ u.ca
+DESCRIPTION:Last day for final payment of Summer Term tuition fees.\n\nSou
+ rce: https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Natal Day - No classes
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+DTSTAMP:20260911T135614Z
+UID:20270802-natal-day-no-classes@academic-calendar.smu.ca
+DESCRIPTION:Administrative Offices closed. No classes.\n\nSource: https://
+ smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadline to apply for Fall 2027 graduation
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270804
+DTSTAMP:20260911T135614Z
+UID:20270803-deadline-to-apply-for-fall-2027-graduati@academic-calendar.sm
+ u.ca
+DESCRIPTION:Deadline for filing applications for Fall 2027 Graduation.\n\n
+ Source: https://smu-ca-public.courseleaf.com/undergraduate/calendar-events
+ /
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of Summer Term classes (graduate and undergraduate)
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+DTSTAMP:20260911T135614Z
+UID:20270816-last-day-of-summer-term-classes-graduate@academic-calendar.sm
+ u.ca
+DESCRIPTION:Source: https://smu-ca-public.courseleaf.com/undergraduate/cal
+ endar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to withdraw without academic penalty (Summer Term)
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+DTSTAMP:20260911T135614Z
+UID:20270816-last-day-to-withdraw-without-academic-pe@academic-calendar.sm
+ u.ca
+DESCRIPTION:Last day for withdrawing\, without academic penalty\, from Sum
+ mer Term (Academic Regulation 13).\n\nSource: https://smu-ca-public.course
+ leaf.com/undergraduate/calendar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Study days
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270819
+DTSTAMP:20260911T135614Z
+UID:20270817-study-days@academic-calendar.smu.ca
+DESCRIPTION:Source: https://smu-ca-public.courseleaf.com/undergraduate/cal
+ endar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Summer final examination period - Summer Term ends
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270824
+DTSTAMP:20260911T135614Z
+UID:20270819-summer-final-examination-period-summer-t@academic-calendar.sm
+ u.ca
+DESCRIPTION:In-person examinations will not be scheduled on Saturday.\n\nS
+ ource: https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+TRANSP:TRANSPARENT
+URL:https://smu-ca-public.courseleaf.com/undergraduate/calendar-events/
+END:VEVENT
+END:VCALENDAR
